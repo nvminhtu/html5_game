@@ -8,7 +8,6 @@ HTML5 Game: challenge, fail then succeed, nothing can stop me!
 
 ### Overview
 ### About Tech:
-*
 * [Drag and Drop] - Drag and drop item, make draggable for object.
 
 ### Framework:
@@ -16,7 +15,7 @@ HTML5 Game: challenge, fail then succeed, nothing can stop me!
 ### Issues:
 
 * Integrate: HTML5 (Phaser,...) + Cordova + Android studio - OK
-Check here: HTML5 + Android Studio + Cordova
+Check here: [HTML5 + Android Studio + Cordova]
 * Integrate: HTML5 (Konva) + Cordova + Android studio - OK
 * Integrate: HTML5 (Phaser) + Cordova + Swift - researching
 * Integrate: HTML5 + Cordova
