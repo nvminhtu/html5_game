@@ -21,9 +21,7 @@ HTML5 Game: challenge, fail then succeed, nothing can stop me!
 ### Make Game - responsive - available for Mobile:
 
 
-### Framework:
-
-### Issues:
+# Stack & Issues:
 
 * Integrate: HTML5 + PhaserJS + Cordova + Android studio - OK
 --- (Check here: [HTML5 + Android Studio + Cordova] )
