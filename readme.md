@@ -25,8 +25,8 @@ HTML5 Game: challenge, fail then succeed, nothing can stop me!
 
 * Integrate: HTML5 + PhaserJS + Cordova + Android studio - OK
 --- (Check here: [HTML5 + Android Studio + Cordova] )
-* Integrate: HTML5 + KonvaJS + Cordova + Android studio - OK
-* Integrate: HTML5 + PhaserJS + Cordova + Swift - researching
+* Integrate: HTML5 + KonvaJS + Cordova + Android studio (Java Android Webview) - OK
+* Integrate: HTML5 + PhaserJS + Cordova + Xcode (Swift) - researching
 * Integrate: HTML5 + Cordova only - researching
 * Integrate: HTML5 + Ionic + Cordova - researching
 * Integrate:  HTML5 + CocoonJS to build online (OK nhưng không thể xóa splash screen có chữ CocoonJS) - researching
