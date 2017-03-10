@@ -19,7 +19,7 @@ HTML5 Game: challenge, fail then succeed, nothing can stop me!
 ### Make Game - responsive - available for Mobile:
 
 ### Tutorial
-* [Cavas Master] - List of Canvas Tutorial
+* [Canvas Master] - List of Canvas Tutorial
 * [No Tears Game Canvas] - Using Loop, Keyboard controls, Game Objects, Collision detection, Sound
 
 # Stack & Issues:
