@@ -4,8 +4,6 @@ HTML5 Game: challenge, fail then succeed, nothing can stop me!
 * Search and bookmark
 * Update, take note, store code online
 
-# Tutorial
-
 ### Overview
 ### About Tech:
 * [Drag and Drop] - Drag and drop item, make draggable for object.
@@ -20,6 +18,9 @@ HTML5 Game: challenge, fail then succeed, nothing can stop me!
 
 ### Make Game - responsive - available for Mobile:
 
+### Tutorial
+* [Cavas Master] - List of Canvas Tutorial
+* [No Tears Game Canvas] - Using Loop, Keyboard controls, Game Objects, Collision detection, Sound
 
 # Stack & Issues:
 
@@ -54,3 +55,6 @@ You can folk, star or email to me: nvminhtu@gmail.com, then I will set you as co
   [Panda JS]: <http://www.pandajs.net/>
   [Melon JS]: <http://melonjs.org/>
   [Canvas Engine]: <http://canvasengine.net/>
+  [Canvas Master]: <http://codetheory.in/20-best-canvas-tutorials-and-examples-that-will-make-you-a-canvas-master/>
+  [Game JS Engine]: <https://gist.github.com/bebraw/768272>
+  [No Tears Game Canvas]: <https://www.html5rocks.com/en/tutorials/canvas/notearsgame/#toc-sound>
