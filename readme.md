@@ -15,6 +15,7 @@ HTML5 Game: challenge, fail then succeed, nothing can stop me!
 * [Pixi JS] - Easy to transition.
 * [Panda JS] - Lightweight,Canvas / WebGL, Many features: Tweening, Retina, Debug Drw, Sound Manager.
 * [Melon JS] - Special in WebGL, WebAudio,ES6 Collections
+* [Quintus] - Easy to learn, fun to use Javascript for mobile and desktop beyond
 * [Canvas Engine] - Create Video Game.
 
 ### Make Game - responsive - available for Mobile:
@@ -59,4 +60,5 @@ You can folk, star or email to me: nvminhtu@gmail.com, then I will set you as co
   [Canvas Engine]: <http://canvasengine.net/>
   [Canvas Master]: <http://codetheory.in/20-best-canvas-tutorials-and-examples-that-will-make-you-a-canvas-master/>
   [Game JS Engine]: <https://gist.github.com/bebraw/768272>
+  [Quintus]: <http://www.html5quintus.com/>
   [No Tears Game Canvas]: <https://www.html5rocks.com/en/tutorials/canvas/notearsgame/#toc-sound>
