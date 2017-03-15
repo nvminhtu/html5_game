@@ -50,8 +50,7 @@ You can folk, star or email to me: nvminhtu@gmail.com, then I will set you as co
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
   [Drag and Drop]: <https://developer.mozilla.org/en-US/docs/Web/API/DragEvent>
-  [HTML5 + Android Studio + Cordova]: <http://www.emanueleferonato.com/2016/06/20/
-  make-your-html5-games-run-on-android-devices-with-cordova-and-android-studio/>
+  [HTML5 + Android Studio + Cordova]: <http://www.emanueleferonato.com/2016/06/20/make-your-html5-games-run-on-android-devices-with-cordova-and-android-studio/>
   [HTML5 + Xcode + Phonegap]: <http://www.emanueleferonato.com/2015/04/29/from-html5-to-ios-native-game-with-phonegap-step-by-step-guide/>
   [My blog]: <http://it.phuotky.com/>
   [Phaser]: <https://phaser.io/>
